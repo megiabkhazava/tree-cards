@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(251, 251, 252);
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.containetr {
+    margin-top: 50px;
+}
+
+.card {
+    display:inline-block;
+    width: 200px;
+    height: 150px;
+    padding: 40px;
+    border: 2px;
+    margin: 100px;
+    background-color: rgb(48, 141, 249);
+    overflow: auto
+}
+
+h2 {
+    color: blue;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.card {
+    overflow: auto;
+}
